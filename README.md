@@ -9,8 +9,8 @@
 
 ## Стек:
 
-![](https://sticker-na-auto.ru/images/product/s/624976be6.jpg), 
-![](https://numfocus.org/wp-content/uploads/2016/07/pandas-logo-300.png),
-![](https://numfocus.org/wp-content/uploads/2017/11/scikitlearn-logo-300.png), ![](https://avatars.mds.yandex.net/i?id=cb875c6ca2be7baf9c1cdb8a3bc63c091993689a-6372940-images-thumbs&n=13), 
-![](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png), 
-![](https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png)
+<img src="https://sticker-na-auto.ru/images/product/s/624976be6.jpg" alt="Python" width="50"/>, <img src="https://numfocus.org/wp-content/uploads/2016/07/pandas-logo-300.png" alt="Pandas" width="50"/>,
+<img src="https://numfocus.org/wp-content/uploads/2017/11/scikitlearn-logo-300.png" alt="scikit-learn" width="50"/>,
+<img src="https://avatars.mds.yandex.net/i?id=cb875c6ca2be7baf9c1cdb8a3bc63c091993689a-6372940-images-thumbs&n=13" alt="catboost" width="50"/>,
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" alt="sql" width="50"/>,
+<img src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" alt="github" width="50"/>
