@@ -8,4 +8,8 @@
 углубиться в машинное обучение
 
 ## Стек:
-![Python](C:\Users\Alexander\Desktop\python.jpg), ![Pandas](https://numfocus.org/wp-content/uploads/2016/07/pandas-logo-300.png), ![](https://numfocus.org/wp-content/uploads/2017/11/scikitlearn-logo-300.png), ![](https://avatars.mds.yandex.net/i?id=cb875c6ca2be7baf9c1cdb8a3bc63c091993689a-6372940-images-thumbs&n=13), ![](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png), ![](https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png)
+
+![](C:\Users\Alexander\Desktop\python.jpg), ![Pandas](https://numfocus.org/wp-content/uploads/2016/07/pandas-logo-300.png),
+![](https://numfocus.org/wp-content/uploads/2017/11/scikitlearn-logo-300.png), ![](https://avatars.mds.yandex.net/i?id=cb875c6ca2be7baf9c1cdb8a3bc63c091993689a-6372940-images-thumbs&n=13), 
+![](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png), 
+![](https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png)
