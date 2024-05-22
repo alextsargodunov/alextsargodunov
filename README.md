@@ -7,6 +7,9 @@
 Работая в атомной промышленности меня заинтересовал вопрос о прогнозировании надежности оборудования и оптимизации технологических процессов из-за чего решил
 углубиться в машинное обучение
 
+## Контакты:
+[<img src="https://digit.market/image/cache/catalog/buytgsoft/unnamed-800x600.png" alt="Python" width="50"/>](https://t.me/alexgodunov)
+
 ## Стек:
 
 <img src="https://sticker-na-auto.ru/images/product/s/624976be6.jpg" alt="Python" width="50"/>, <img src="https://numfocus.org/wp-content/uploads/2016/07/pandas-logo-300.png" alt="Pandas" width="50"/>,
